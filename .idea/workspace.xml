@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82b14133-9660-4945-83f3-d210daf0bece" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/WebShopApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/WebShopApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/config/EmailConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/config/EmailConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/config/ScheduledTaskConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/config/ScheduledTaskConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/config/jwt/JWTAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/config/jwt/JWTAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/controllers/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/controllers/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/entities/ChangePasswordToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/entities/ChangePasswordToken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/entities/ErrorDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/entities/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/entities/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/exceptions/ApiExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/exceptions/ApiExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/repository/ChangePasswordTokenRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/repository/ChangePasswordTokenRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/repository/ConfirmationTokenRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/repository/ConfirmationTokenRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/repository/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/EmailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/EmailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/RegistrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/RegistrationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/RegistrationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/RegistrationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/TokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/schedulerServices/TokenSchedulerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/schedulerServices/TokenSchedulerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/Messages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/Messages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/WebShopApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/WebShopApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/config/EmailConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/config/EmailConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/config/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/controllers/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/controllers/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/controllers/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/controllers/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/entities/ChangePasswordToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/entities/ChangePasswordToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/entities/ErrorDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/entities/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/entities/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/entities/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/exceptions/ApiExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/exceptions/ApiExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/EmailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/EmailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/EmailServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/EmailServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/RegistrationServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/RegistrationServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/RoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/RoleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/RoleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/RoleServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webShop/webShop/services/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webShop.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webShop" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/zivkovicmilutin/userRegisterLogin.git" />
+        <option value="https://github.com/zivkovicmilutin/userRegistrationAndLogin.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kt3neelQH31bVQLYs2FpEbmduJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../playGround" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.webShop.webShop.services" />
+      <recent name="com.webShop.webShop.entities" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.webShop.webShop.config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebShopApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.webShop.webShop.WebShopApplication" />
+      <module name="webShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.webShop.webShop.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebShopApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Milutin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82b14133-9660-4945-83f3-d210daf0bece" name="Default Changelist" comment="" />
+      <created>1606506228107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606506228107</updated>
+    </task>
+    <task id="LOCAL-00001" summary="removing comments">
+      <created>1607903584829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607903584829</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removing comments">
+      <created>1607903600886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607903600886</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="removing comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing comments" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/ProductServiceImpl.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/webShop/webShop/models/OrderDTO.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/webShop/webShop/controllers/ProductController.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/webShop/webShop/services/OrderServiceImpl.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/webShop/webShop/entities/Comment.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
